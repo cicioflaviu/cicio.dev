@@ -15,11 +15,11 @@ module.exports = {
                 showThemeLogo: false,
             },
         },
-        // {
-        //     resolve: 'gatsby-plugin-manifest',
-        //     options: {
-        //         icon: 'static/favicon.png',
-        //     },
-        // },
+        {
+            resolve: 'gatsby-plugin-manifest',
+            options: {
+                icon: 'static/favicon.png',
+            },
+        },
     ],
 }
