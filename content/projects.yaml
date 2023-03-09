@@ -1,0 +1,80 @@
+- name: Senior Java Engineer|RWS Language Cloud|Apr 2021 - Nov 2022
+  url: https://www.rws.com/localization/language-cloud
+  description: "The client, a world-leading provider of language services, risked losing a significant amount of clients due to the lack of a self-service reporting module for their translation management system. \n\n• Increased decision-making efficiency for 20k+ clients by implementing a near real-time reporting service able to process over 2M events/second.\n\n• Increased event processing performance with at least 80% by applying optimizations on the aggregation strategies and the state management."
+  tags:
+    - Java
+    - Spring-Boot
+    - Kafka
+    - Apache Flink
+    - OData
+    - PostgreSQL
+    - MySQL
+    - MongoDB
+    - JUnit
+    - Sonar
+    - AWS
+    - Streaming Data Architecture
+    - Agile-Kanban
+
+- name: Senior Java Fullstack Engineer|Glofox|Aug 2020 - May 2021
+  url: https://www.glofox.com
+  description: "The client, an all-in-one software solution for fitness businesses, was dealing with low customer satisfaction and was struggling to onboard new clients, due to performance issues and slow implementation of new customer requirements.\n\n• Increased the scalability and performance of the platform by at least 50% by implementing a highly scalable solution based on an event-driven architecture.\n\n• Increased implementation speed of new customer requirements by applying domain-driven design principles and patterns."
+  tags:
+    - Java
+    - Spring-Boot
+    - Docker
+    - AWS
+    - PostgreSQL
+    - MongoDB
+    - React.js
+    - JUnit
+    - Mockito
+    - Event-Driven Architecture
+    - Domain-Driven Design
+    - Agile-Scrum
+
+- name: Senior Java Fullstack Engineer|PharmaTrace|Mar 2020 - Dec 2020
+  url: https://www.pharmatrace.io/
+  description: "The client, active in the healthcare industry, was falling behind schedule on implementing their Track&Trace platform due to poor communication and slow feature implementation.\n\n• Improved deployment to production time by at least 60% by implementing a CI/CD pipeline and by increasing the unit test coverage.\n\n• Increased team productivity by 30% by applying design patterns and redesigning the project's architecture."
+  tags:
+    - Java
+    - Kotlin
+    - Go
+    - Spring-Cloud
+    - AWS
+    - Kubernetes
+    - Docker
+    - GitLab CI
+    - Kafka
+    - MySQL
+    - React.js
+
+- name: Senior Java Engineer|SecurEdge Cloud|Feb 2019 - Feb 2020
+  url: https://www.securedgenetworks.com/software
+  description: "The client, a Network as a Service platform that enables businesses to consume enterprise-grade networking as a utility, was losing clients due to the lack of a cloud-based platform that provides businesses with a suite of network monitoring and business intelligence software.\n\n• Improved the Wi-Fi network efficiency for over 30 institutions from the USA, that are successfully using the platform, by implementing a reliable and fast backend. \n\n• Gathered over 50 TB of data from 150 monitoring devices by implementing a Wi-Fi network management service and a network testing scheduling service that pushes data to a non-relational database."
+  tags:
+    - Java
+    - Spring-Boot
+    - Hibernate, Morphia
+    - MySQL,
+    - MongoDB
+    - Linux
+    - Bash
+    - Docker
+    - Microservice Architecture
+
+- name: Senior Java Engineer|DaiVB|Jul 2016 - Feb 2019
+  url: https://me.mercedes-benz.com
+  description: "The client, active in the automotive industry, was struggling with low customer satisfaction and was losing a large amount of money on operational costs due to using a legacy monolith platform hard to maintain or refactor.\n\n• Reduced communication latency from 3s to 500ms of the platform by changing the communication protocol from HTTP to MQTT.\n\n• Reduced infrastructure costs of the platform by 50% and achieved high scalability and availability by migrating to an event-driven microservice architecture."
+  tags:
+    - Java
+    - Spring-Cloud
+    - Hibernate
+    - RabbitMQ
+    - Jenkins
+    - REST APIs
+    - PostgreSQL
+    - JUnit
+    - Mockito
+    - Event-Driven Microservice Architecture
+    - Agile-Scrum

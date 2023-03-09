@@ -1,0 +1,28 @@
+- profile:
+  initials: FC
+  name: Flaviu Cicio
+  profession: Senior Java/AWS Cloud Architect
+  image: images/profile.jpg
+  location: Cluj-Napoca, Romania
+  relocation: false
+  company: Essential Innovations
+  for_hire: true
+  focus:  Design and implement software solutions
+  focus_url: https://cicio.dev
+  about: |
+    I'm a Senior Java/AWS Cloud Architect with 6+ years of experience. I help different companies, all around the world, design and implement their software solutions.
+
+    Do you think my expertise could help your organization? Here I am!
+  skills:
+    - Java
+    - SQL
+    - Microservices
+  tools:
+    - Spring
+    - Docker
+    - AWS
+  budget:
+    currency: $
+    min: 10
+    max: 200
+    default: 15
