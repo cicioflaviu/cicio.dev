@@ -15,12 +15,12 @@
     Do you think my expertise could help your organization? Here I am!
   skills:
     - Java
-    - SQL
-    - Microservices
+    - Apache Flink
+    - Kafka
   tools:
-    - Spring
-    - Docker
     - AWS
+    - Docker
+    - Kubernetes
   budget:
     currency: $
     min: 10
